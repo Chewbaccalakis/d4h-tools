@@ -1,0 +1,3 @@
+[submodule "modules/d4h-typescript"]
+	path = modules/d4h-typescript
+	url = https://github.com/Chewbaccalakis/d4h-typescript.git
